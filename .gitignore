@@ -1,0 +1,13 @@
+# Build outputs
+bin/
+build/
+
+# Compiled object files
+*.o
+*.out
+
+# macOS
+.DS_Store
+
+# Zed
+.zed/
