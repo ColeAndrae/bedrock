@@ -1,8 +1,8 @@
-# What is Bedrock?
+# What is TensorGrad?
 
-Bedrock is my attempt to create a deep-learning framework in C++ that is designed to improve the speed of training and inference of neural networks, relative to modern Python libraries.
+TensorGrad is my attempt to create a deep-learning framework in C++ that is designed to improve the speed of training and inference of neural networks, relative to modern Python libraries.
 
-# Why create Bedrock?
+# Why create TensorGrad?
 
 I am (trying) to create a deep-learning framework from scratch because I believe it will allow me to gain a much deeper understanding of the mathematics and computer science behind the tools I use on a daily basis. Not only will I challenge my comprehension about ideas like computational graphs, back-propagation, and tensor manipulation, but I will also develop the skill of pursuing a long-term project, enforcing critical thinking, modular design, and code testing. I find this style of hands-on learning to be ten times more engaging, difficult, and rewarding. By the end of this project I will hopefully have achieved something that I am genuinely proud of, or in the best case scenario, something that someone else will find useful.
 
